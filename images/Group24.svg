@@ -1,0 +1,13 @@
+<svg id="Group" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.995" height="29.995" viewBox="0 0 29.995 29.995">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="airplane" d="M5.663,0H7.276A3.153,3.153,0,0,1,9.716,1.371l2,3.315h3.631a.8.8,0,1,1,0,1.6H11.636l-2,3.315A3.153,3.153,0,0,1,7.2,10.969H5.586L8.409,6.283H2.771L1.613,8.24H0L1.629,5.485V5.458L.016,2.729H1.629L2.786,4.686h5.7Z" fill="#2d2d2d"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle" width="29.995" height="29.995" rx="14.997" fill="#a870ce"/>
+  <g id="icon_maps_track_24px" data-name="icon/maps/track_24px" transform="translate(7.119 9.315)">
+    <g id="Group_6" data-name="Group 6">
+      <path id="airplane-2" data-name="airplane" d="M5.663,0H7.276A3.153,3.153,0,0,1,9.716,1.371l2,3.315h3.631a.8.8,0,1,1,0,1.6H11.636l-2,3.315A3.153,3.153,0,0,1,7.2,10.969H5.586L8.409,6.283H2.771L1.613,8.24H0L1.629,5.485V5.458L.016,2.729H1.629L2.786,4.686h5.7Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
